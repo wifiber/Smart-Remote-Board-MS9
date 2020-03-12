@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TI97x)(type Legacy)(uri "C:/Users/Andrew/Desktop/Smart Remote Board MS9/srb-ms9/tl97x.lib")(options "")(descr Github-natsfr))
+  (lib (name STRN)(type Legacy)(uri "C:/Users/Andrew/Desktop/Smart Remote Board MS9/srb-ms9/STRN_Lab.lib")(options "")(descr ""))
+)

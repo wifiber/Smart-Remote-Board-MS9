@@ -1,0 +1,26 @@
+
+JST 12-pin remote board conenctor
+S12B-EH
+https://www.digikey.com/product-detail/en/jst-sales-america-inc/S12B-EH/455-1038-ND/527262
+
+
+9 Adjustments on remote board
+
+Contrast
+R gain
+G gain
+B gain
+Bright
+
+H size
+H posi
+
+V size
+V posi
+
+
+
+Op Amp - TL972 Dual, rail to rail, 12 V (x5)
+
+Multiplexer Switch ICs DUAL 4 CHANNEL MUX.
+ADG409BRZ
