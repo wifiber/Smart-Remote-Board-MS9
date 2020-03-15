@@ -24,3 +24,17 @@ Op Amp - TL972 Dual, rail to rail, 12 V (x5)
 
 Multiplexer Switch ICs DUAL 4 CHANNEL MUX.
 ADG409BRZ
+
+DAC - 4 channel / 8 bit
+TLC7226
+
+
+
+SMP18FSZ - Sample and Hold Amplifier
+8 CH
+
+SMP08FSZ - S/H
+8 CH
+
+LF398N/NOPB - Sample and Hold Amplifier
+1 channel

@@ -1,4 +1,7 @@
 (sym_lib_table
-  (lib (name TI97x)(type Legacy)(uri "C:/Users/Andrew/Desktop/Smart Remote Board MS9/srb-ms9/tl97x.lib")(options "")(descr Github-natsfr))
-  (lib (name STRN)(type Legacy)(uri "C:/Users/Andrew/Desktop/Smart Remote Board MS9/srb-ms9/STRN_Lab.lib")(options "")(descr ""))
+  (lib (name TI97x)(type Legacy)(uri ${KIPRJMOD}/tl97x.lib)(options "")(descr Github-natsfr))
+  (lib (name STRN)(type Legacy)(uri ${KIPRJMOD}/STRN_Lab.lib)(options "")(descr ""))
+  (lib (name TLC7226CDWR)(type Legacy)(uri ${KIPRJMOD}/TLC7226CDWR.lib)(options "")(descr ""))
+  (lib (name SMP18)(type Legacy)(uri ${KIPRJMOD}/SMP18FSZ.lib)(options "")(descr ""))
+  (lib (name AD7628)(type Legacy)(uri ${KIPRJMOD}/AD7628KRZ.lib)(options "")(descr ""))
 )
